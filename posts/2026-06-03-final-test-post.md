@@ -1,7 +1,7 @@
 ---
-title: Final Test Post - UPDATED
-date: 2026-06-03T10:16:34.170Z
+title: Final Test Post
+date: 2026-06-03T10:55:07.419Z
 author: Blog Owner
 ---
 
-This is the final end-to-end test.
+Testing the publish button with retry logic.
