@@ -1,7 +1,7 @@
 ---
 title: E2E Test Post
-date: 2026-06-03T10:10:05.288Z
+date: 2026-06-03T10:18:43.511Z
 author: Blog Owner
 ---
 
-Full end-to-end test of the blog system.
+Testing the full blog system end to end.
