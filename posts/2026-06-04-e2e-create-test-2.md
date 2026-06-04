@@ -1,7 +1,7 @@
 ---
-title: E2E Create Test 2
-date: 2026-06-04T09:51:04.755Z
+title: E2E Edit Test 2 - (EDITED)
+date: 2026-06-04T09:55:48.815Z
 author: Blog Owner
 ---
 
-This is the second E2E test post. Testing creation again.
+## Edited Content\n\nThis is the **updated** version of post 2.
