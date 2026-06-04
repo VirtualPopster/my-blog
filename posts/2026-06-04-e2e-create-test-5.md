@@ -1,13 +1,9 @@
 ---
-title: E2E Create Test 5
-date: 2026-06-04T09:53:47.146Z
+title: E2E Edit Test 3 - (EDITED)
+date: 2026-06-04T09:56:26.833Z
 author: Blog Owner
 ---
 
-# Final Create Test
+# Final Edit Test
 
-Last creation E2E test.
-
-> Blockquote here
-
-`inline code` and regular text.
+Post 3 successfully edited!
